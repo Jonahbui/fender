@@ -1,5 +1,5 @@
 # Fender
-The fender is a robot used in a delivery service provided within the Engineering Research Building (ERB) at The University of Texas at Alrington (UTA). It is accessible for usage using this website(repo)](https://github.com/Jonahbui/fender-web-app)
+The fender is a robot used in a delivery service provided within the Engineering Research Building (ERB) at The University of Texas at Alrington (UTA). It is accessible for usage using this [repository](https://github.com/Jonahbui/fender-web-a). A hardware schematics can be found in this repository as well, if necessary.
 
 
 ### Table of Contents
